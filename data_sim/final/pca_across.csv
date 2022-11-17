@@ -1,0 +1,25 @@
+dim1,dim2,ID,variable,value
+11.524916,-1.8976967,ID0,background,robert grew up in a poor neighborhood where criminality and bullying was normal robert was bullied and always felt like an outsider being more interested in literature and theater than in money and girls robert currently has a job that he is not passionate about but he really dreams about making it as an actor
+-5.49509,-1.7833936,ID0,action_1,try to find likeminded people including from the same neighbourhood
+-4.462026,3.0993576,ID0,consequence_1,developing a community and sense of belonging potentially being safer reinforcing his identity
+-1.171777,-2.3545504,ID0,action_2,learn about what might be the best ways to become an actor whether it would involve studying moving to a different place etc
+-5.970862,1.4671834,ID0,consequence_2,enacting some of these choices that bring him closer to his desired profession
+2.8967865,0.5391783,ID0,action_3,work hard on the desired profession keep the other job as long as necessary and quit when acting offers sufficient means for living
+2.3125825,0.2718576,ID0,consequence_3,quitting the boring job eventually
+0.2363924,10.03401,ID0,endstate,robert is now making a living as an actor
+11.524916,-1.8976967,ID1,background,robert grew up in a poor neighborhood where criminality and bullying was normal robert was bullied and always felt like an outsider being more interested in literature and theater than in money and girls robert currently has a job that he is not passionate about but he really dreams about making it as an actor
+-2.0405304,-4.7015104,ID1,action_1,robert should go back to school and study grammar
+-3.9268985,-4.976612,ID1,consequence_1,he will learn that plural nouns use plural verbs
+7.2686706,-0.9910933,ID1,action_2,he should forget about being an actor and find a new aspiration because making it as an actor is nearly impossible and it is already too late for him to make the connections
+1.2734339,-2.3113668,ID1,consequence_2,if he can think of something more realistic for his career maybe he can do local amateur theatre as a hobby
+0.40233722,-4.810293,ID1,action_3,get in touch with a local amateur acting group and take some acting lessons and try to get a part in a play
+0.20279172,2.5877748,ID1,consequence_3,maybe acting as a hobby will be sufficiently meaningful for his life that he can continue in his ordinary job
+0.2363924,10.03401,ID1,endstate,robert is now making a living as an actor
+11.524916,-1.8976967,ID2,background,robert grew up in a poor neighborhood where criminality and bullying was normal robert was bullied and always felt like an outsider being more interested in literature and theater than in money and girls robert currently has a job that he is not passionate about but he really dreams about making it as an actor
+-1.620848,-4.098979,ID2,action_1,join the local theater for experience
+-5.620705,-1.8069491,ID2,consequence_1,make friends others to help guide to next best steps from their experience
+-4.729209,-1.548096,ID2,action_2,take leaaons part time or find a scholarship for training
+-6.7235575,-4.892317,ID2,consequence_2,find opportunities through the school postings etc
+-3.8301318,-2.5614102,ID2,action_3,get a small part in something by auditioning wherever
+-4.048893,4.462281,ID2,consequence_3,he gets his break
+0.2363924,10.03401,ID2,endstate,robert is now making a living as an actor

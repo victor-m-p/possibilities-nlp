@@ -1,0 +1,25 @@
+ID,variable,value
+ID0,background,robert grew up in a poor neighborhood where criminality and bullying was normal robert was bullied and always felt like an outsider being more interested in literature and theater than in money and girls robert currently has a job that he is not passionate about but he really dreams about making it as an actor
+ID1,background,robert grew up in a poor neighborhood where criminality and bullying was normal robert was bullied and always felt like an outsider being more interested in literature and theater than in money and girls robert currently has a job that he is not passionate about but he really dreams about making it as an actor
+ID2,background,robert grew up in a poor neighborhood where criminality and bullying was normal robert was bullied and always felt like an outsider being more interested in literature and theater than in money and girls robert currently has a job that he is not passionate about but he really dreams about making it as an actor
+ID0,action_1,try to find likeminded people including from the same neighbourhood
+ID1,action_1,robert should go back to school and study grammar
+ID2,action_1,join the local theater for experience
+ID0,consequence_1,developing a community and sense of belonging potentially being safer reinforcing his identity
+ID1,consequence_1,he will learn that plural nouns use plural verbs
+ID2,consequence_1,make friends others to help guide to next best steps from their experience
+ID0,action_2,learn about what might be the best ways to become an actor whether it would involve studying moving to a different place etc
+ID1,action_2,he should forget about being an actor and find a new aspiration because making it as an actor is nearly impossible and it is already too late for him to make the connections
+ID2,action_2,take leaaons part time or find a scholarship for training
+ID0,consequence_2,enacting some of these choices that bring him closer to his desired profession
+ID1,consequence_2,if he can think of something more realistic for his career maybe he can do local amateur theatre as a hobby
+ID2,consequence_2,find opportunities through the school postings etc
+ID0,action_3,work hard on the desired profession keep the other job as long as necessary and quit when acting offers sufficient means for living
+ID1,action_3,get in touch with a local amateur acting group and take some acting lessons and try to get a part in a play
+ID2,action_3,get a small part in something by auditioning wherever
+ID0,consequence_3,quitting the boring job eventually
+ID1,consequence_3,maybe acting as a hobby will be sufficiently meaningful for his life that he can continue in his ordinary job
+ID2,consequence_3,he gets his break
+ID0,endstate,robert is now making a living as an actor
+ID1,endstate,robert is now making a living as an actor
+ID2,endstate,robert is now making a living as an actor

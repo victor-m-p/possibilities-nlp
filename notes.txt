@@ -1,0 +1,11 @@
+Embedding Object: 
+Shape of the encoded object (768,) so for every
+sentence we get 768 dimensions as an array. 
+
+Cosine Distance: 
+1 = aligned
+0 = perpendicular
+-1 = anti aligned 
+
+Good explanation & better set-up:
+https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
